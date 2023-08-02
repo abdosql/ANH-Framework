@@ -1,9 +1,9 @@
 {
-    "name": "anh/core",
+    "name": "anh-framework/core",
     "type": "library",
     "authors": [
         {
-            "name": "abdosql",
+            "name": "Abdelaziz Saqqal",
             "email": "abdosql@users.noreply.github.com"
         }
     ],
